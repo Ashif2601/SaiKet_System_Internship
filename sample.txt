@@ -1,0 +1,10 @@
+Sample Text File
+
+This is a sample text file used for testing the Text File Analyzer
+program. It contains multiple lines, some repeated words, and simple
+text structure.
+
+Java is a popular programming language. Python is also popular. Java and
+Python are widely used in software development.
+
+End of sample file.
